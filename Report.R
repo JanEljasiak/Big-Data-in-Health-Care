@@ -1,6 +1,6 @@
 ---
 title: "Big Data in Health Care Project"
-author: "Jan Robert Eljasiak 909837     Faezeh Azhir 909890"
+author: "Jan Robert Eljasiak 909837"
 date: "2025"
 output:
   pdf_document: default
@@ -633,5 +633,6 @@ Multinodularity and large nodule size were independently associated with higher 
 These findings reinforce the prognostic value of tumor burden and support the role of curative therapies in recurrence management. Time to recurrence, as a surrogate for tumor biology, remained a strong predictor of outcome.
 
 ### Limitations
+
 
 This study has several limitations. First, the sample size was relatively small, especially for death-related outcomes, which may limit the statistical power of some analyses. Second, because treatment decisions were not randomized, there is a risk of residual confounding — that is, differences in patient characteristics may have influenced both treatment choice and outcomes. Third, some continuous variables were converted into categories, which may have reduced the ability to detect more nuanced associations. Additionally, using cause-specific hazard models allowed us to estimate relative risks, but not the absolute probability of events over time.
